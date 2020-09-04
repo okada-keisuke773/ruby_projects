@@ -17,9 +17,6 @@ end
 
 # 課題4
 class People
-    def name
-        @name
-    end
     attr_accessor :name
 end
 
